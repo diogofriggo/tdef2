@@ -1,0 +1,55 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Ackermann 2012]{thomas}
+\abntrefinfo{Ackermann}{ACKERMANN}{2012}
+{ACKERMANN, T. \emph{Wind Power in Power Systems}. [S.l.]: John Wiley \& Sons,
+  Ltd, 2012.}
+
+\bibitem[AN. 2003]{art14}
+\abntrefinfo{AN.}{AN.}{2003}
+{AN., C. Energy output estimation for small-scale wind power generators using
+  weibull-representative wind data.
+\emph{Journal of Wind Engeneering and Industrial Aerodynamics}, 2003.}
+
+\bibitem[Centro de Pesquisas de Energia Elétrica, CEPEL 2001]{atlas}
+\abntrefinfo{CEPEL}{CEPEL}{2001}
+{CENTRO DE PESQUISAS DE ENERGIA ELéTRICA, CEPEL. \emph{Atlas do Potencial
+  Eólico Brasileiro}. Brasíli, 2001. Dispon{\'\i}vel em:
+  \url{http://www.cresesb.cepel.br/publicacoes/download/atlas\_eolico/atlas\%20do\%20potencial\%20eolico\%20brasileiro.pdf}.}
+
+\bibitem[Drobinski e Coulais 2012]{dists}
+\abntrefinfo{Drobinski e Coulais}{DROBINSKI; COULAIS}{2012}
+{DROBINSKI, P.; COULAIS, C. Is the weibull distribution really suited for wind
+  statistics modeling and wind power evaluation?
+11 2012.}
+
+\bibitem[ECMWF 2017]{era5}
+\abntrefinfo{ECMWF}{ECMWF}{2017}
+{ECMWF. \emph{ERA5 Reanalysis Database}. 2017.
+Dispon{\'\i}vel em:
+  \url{https://www.ecmwf.int/en/forecasts/datasets/archive-datasets/reanalysis-datasets/era5}.
+  Acesso em: 03 nov 2018.}
+
+\bibitem[M Hooshmand R-A e A-H 2015]{art15}
+\abntrefinfo{M Hooshmand R-A e A-H}{M HOOSHMAND R-A; A-H}{2015}
+{M HOOSHMAND R-A, K.~A. P.; A-H, Z. Joint operation of wind farm, photovoltaic,
+  pump-storage and energy storage devices in energy and reserve markets.
+\emph{International Journal of Electrical Power \& Energy Systems}, 2015.}
+
+\bibitem[Menčík 2016]{weibull}
+\abntrefinfo{Menčík}{MENčíK}{2016}
+{MENčíK, J. Weibull distribution.
+\emph{Springer, Berlin, Heidelberg}, v.~1, n.~1, p. 71--97, 2016.}
+
+\bibitem[P 2003]{art13}
+\abntrefinfo{P}{P}{2003}
+{P, V.~S. R. A review of wind speed probability distributions used in wind
+  energy analysis: case studies in the canary islands.
+\emph{Renewable Sustainable Energy Review}, 2003.}
+
+\end{thebibliography}

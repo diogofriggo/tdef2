@@ -1,0 +1,35 @@
+\babel@toc {brazil}{}
+\babel@toc {brazil}{}
+\contentsline {figure}{\numberline {1}{\ignorespaces Compara\IeC {\c c}\IeC {\~a}o entre a composi\IeC {\c c}\IeC {\~a}o da matriz energ\IeC {\'e}tica brasileira no ano de 2017 (esquerda) e no ano de 2018 (direita)}}{11}{figure.0.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces Ranking de capacidade e\IeC {\'o}lica instalada acumulada}}{12}{figure.0.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces Evolu\IeC {\c c}\IeC {\~a}o da capacidade instalada de parques e\IeC {\'o}licos no Brasil}}{12}{figure.0.3}
+\contentsline {figure}{\numberline {4}{\ignorespaces Curva de pot\IeC {\^e}ncia de uma turbina gen\IeC {\'e}rica. Fonte: \href {https://upload.wikimedia.org/wikipedia/commons/6/67/Powercurve.png}{Wikimedia Commons}}}{14}{figure.0.4}
+\contentsline {figure}{\numberline {5}{\ignorespaces \IeC {\`A} esquerda velocidade do vento em m/s para uma regi\IeC {\~a}o no sul do Cear\IeC {\'a} e \IeC {\`a} direita o pre\IeC {\c c}o de fechamento das a\IeC {\c c}\IeC {\~o}es da google para 120 dias de 2013. Fonte: autoria pr\IeC {\'o}pria, dados \cite {era5}.}}{15}{figure.0.5}
+\contentsline {figure}{\numberline {6}{\ignorespaces Chapada}}{17}{figure.1.6}
+\contentsline {figure}{\numberline {7}{\ignorespaces Varia\IeC {\c c}\IeC {\~a}o da eleva\IeC {\c c}\IeC {\~a}o na dire\IeC {\c c}\IeC {\~a}o preferencial de escoamento do vento.}}{18}{figure.1.7}
+\contentsline {figure}{\numberline {8}{\ignorespaces Alguns n\IeC {\'o}s da s\IeC {\'e}rie ERA 5 ao sul do Cear\IeC {\'a}, Brasil.\newline Google earth V 7.3.2.5776. (14 de Dezembro, 2015). Rio Grande do Sul, Brasil. \ang {7} 14\textquotesingle \ 11,54\textquotesingle \textquotesingle \ S, \ang {40} 04\textquotesingle \ 12,31\textquotesingle \textquotesingle \ W, Eye alt 1808,45 km.}}{21}{figure.2.8}
+\contentsline {figure}{\numberline {9}{\ignorespaces Velocidade do vento registrada por sat\IeC {\'e}lite na regi\IeC {\~a}o de interesse nos anos de 2017 e 2018}}{22}{figure.3.9}
+\contentsline {figure}{\numberline {10}{\ignorespaces Histograma de velocidades do n\IeC {\'o} noroeste da s\IeC {\'e}rie de dados modelo.}}{23}{figure.3.10}
+\contentsline {figure}{\numberline {11}{\ignorespaces Gr\IeC {\'a}fico de Cullen e Frey para os dados do n\IeC {\'o} noroeste da s\IeC {\'e}rie de dados modelo.}}{24}{figure.3.11}
+\contentsline {figure}{\numberline {12}{\ignorespaces Rosa dos ventos}}{25}{figure.3.12}
+\contentsline {figure}{\numberline {13}{\ignorespaces Chapada}}{25}{figure.3.13}
+\contentsline {figure}{\numberline {14}{\ignorespaces Chapada}}{26}{figure.3.14}
+\contentsline {figure}{\numberline {15}{\ignorespaces O m\IeC {\'e}todo de Box-Jenkins.}}{31}{figure.4.15}
+\contentsline {figure}{\numberline {16}{\ignorespaces \IeC {\'U}ltimos dois anos da s\IeC {\'e}rie de vento}}{32}{figure.4.16}
+\contentsline {figure}{\numberline {17}{\ignorespaces Sazonalidade removida}}{33}{figure.4.17}
+\contentsline {figure}{\numberline {18}{\ignorespaces Sazonalidade removida por meio de uma transforma\IeC {\c c}\IeC {\~a}o de Box-Cox}}{34}{figure.4.18}
+\contentsline {figure}{\numberline {19}{\ignorespaces Gr\IeC {\'a}ficos da Fun\IeC {\c c}\IeC {\~a}o de Autocorrela\IeC {\c c}\IeC {\~a}o (ACF) e Fun\IeC {\c c}\IeC {\~a}o de Autocorrela\IeC {\c c}\IeC {\~a}o Parcial (PACF)}}{36}{figure.4.19}
+\contentsline {figure}{\numberline {20}{\ignorespaces Gr\IeC {\'a}ficos da Fun\IeC {\c c}\IeC {\~a}o de Autocorrela\IeC {\c c}\IeC {\~a}o (ACF) e Fun\IeC {\c c}\IeC {\~a}o de Autocorrela\IeC {\c c}\IeC {\~a}o Parcial (PACF)}}{37}{figure.4.20}
+\contentsline {figure}{\numberline {21}{\ignorespaces Modelo LSTM aplicado a s\IeC {\'e}rie. Velocidade no eixo y. Tempo em horas no eixo x.}}{38}{figure.4.21}
+\contentsline {figure}{\numberline {22}{\ignorespaces 3 \IeC {\'u}timas semanas de dados da s\IeC {\'e}rie. Antes da diferencia\IeC {\c c}\IeC {\~a}o (superior) e ap\IeC {\'o}s (inferior).}}{39}{figure.4.22}
+\contentsline {figure}{\numberline {23}{\ignorespaces Gr\IeC {\'a}ficos da Fun\IeC {\c c}\IeC {\~a}o de Autocorrela\IeC {\c c}\IeC {\~a}o e Autocorrela\IeC {\c c}\IeC {\~a}o Parical para 2 semanas de dados da s\IeC {\'e}rie.}}{40}{figure.4.23}
+\contentsline {figure}{\numberline {24}{\ignorespaces Chapada}}{42}{figure.4.24}
+\contentsline {figure}{\numberline {25}{\ignorespaces Condi\IeC {\c c}\IeC {\~o}es de regime estacion\IeC {\'a}rio e invertibilidade para um modelo ARIMA(6,1,0).}}{44}{figure.4.25}
+\contentsline {figure}{\numberline {26}{\ignorespaces Condi\IeC {\c c}\IeC {\~o}es de regime estacion\IeC {\'a}rio e invertibilidade para um modelo ARIMA(6,1,0).}}{45}{figure.4.26}
+\contentsline {figure}{\numberline {27}{\ignorespaces Condi\IeC {\c c}\IeC {\~o}es de regime estacion\IeC {\'a}rio e invertibilidade para um modelo ARIMA(6,1,0).}}{46}{figure.4.27}
+\contentsline {figure}{\numberline {28}{\ignorespaces Evolu\IeC {\c c}\IeC {\~a}o dos par\IeC {\^a}metros p e q de um modelo ARIMA ao longo do tempo.}}{48}{figure.5.28}
+\contentsline {figure}{\numberline {29}{\ignorespaces Evolu\IeC {\c c}\IeC {\~a}o dos par\IeC {\^a}metros p e q de um modelo ARIMA ao longo do tempo.}}{49}{figure.5.29}
+\contentsline {figure}{\numberline {30}{\ignorespaces Evolu\IeC {\c c}\IeC {\~a}o dos par\IeC {\^a}metros p e q de um modelo ARIMA ao longo do tempo.}}{50}{figure.6.30}
+\contentsline {figure}{\numberline {31}{\ignorespaces GARCH}}{51}{figure.6.31}
+\contentsline {figure}{\numberline {32}{\ignorespaces GARCH}}{52}{figure.6.32}
+\contentsline {figure}{\numberline {33}{\ignorespaces Regi\IeC {\~o}es correspondentes a dados de velocidade do vento do banco de dados ERA5 da ECWMF. Mapa dispon\IeC {\'\i }vel em \href {https://drive.google.com/open?id=1BhnfX52bhdIj7LbBzX_KbzbSS-oIQXiD&usp=sharing}{TDEF Map}}}{54}{figure.8.33}
