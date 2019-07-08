@@ -40,9 +40,11 @@
 \contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {GARCH}}{53}{chapter.6}
 \contentsline {section}{\numberline {6.1}Base hor\IeC {\'a}ria}{53}{section.6.1}
 \contentsline {section}{\numberline {6.2}Base mensal}{54}{section.6.2}
-\contentsline {part}{\partnumberline {III}\MakeTextUppercase {Convers\IeC {\~a}o em energia}}{56}{part.3}
+\contentsline {part}{\partnumberline {III}\MakeTextUppercase {Conclus\IeC {\~a}o}}{56}{part.3}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Valida\IeC {\c c}\IeC {\~a}o com outras s\IeC {\'e}ries}}{59}{chapter.7}
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Convers\IeC {\~a}o em energia}}{57}{chapter.7}
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase {Valida\IeC {\c c}\IeC {\~a}o com outras s\IeC {\'e}ries}}{59}{chapter.8}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \contentsline {chapter}{\uppercase {Refer\^encias}}{61}{section*.14}
 \vspace {\cftbeforechapterskip }
