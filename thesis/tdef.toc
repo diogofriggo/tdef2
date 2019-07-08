@@ -5,44 +5,43 @@
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{Introdu\IeC {\c c}\IeC {\~a}o}{11}{chapter*.7}
-\contentsline {part}{\partnumberline {I}\MakeTextUppercase {Estudo de caso}}{16}{part.1}
+\contentsline {chapter}{Introdu\IeC {\c c}\IeC {\~a}o}{12}{chapter*.7}
+\contentsline {part}{\partnumberline {I}\MakeTextUppercase {Estudo de caso}}{17}{part.1}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Caracteriza\IeC {\c c}\IeC {\~a}o da regi\IeC {\~a}o}}{17}{chapter.1}
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Caracteriza\IeC {\c c}\IeC {\~a}o da regi\IeC {\~a}o}}{18}{chapter.1}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {A s\IeC {\'e}rie temporal modelo}}{20}{chapter.2}
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {A s\IeC {\'e}rie temporal modelo}}{21}{chapter.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Caracteriza\IeC {\c c}\IeC {\~a}o dos dados}}{22}{chapter.3}
-\contentsline {section}{\numberline {3.1}Distribui\IeC {\c c}\IeC {\~a}o de probabilidades}{22}{section.3.1}
-\contentsline {section}{\numberline {3.2}Sazonalidade}{24}{section.3.2}
-\contentsline {section}{\numberline {3.3}Horizonte de previs\IeC {\~a}o}{26}{section.3.3}
-\contentsline {section}{\numberline {3.4}M\IeC {\'e}todos}{27}{section.3.4}
-\contentsline {part}{\partnumberline {II}\MakeTextUppercase {Implementa\IeC {\c c}\IeC {\~a}o}}{28}{part.2}
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Caracteriza\IeC {\c c}\IeC {\~a}o dos dados}}{23}{chapter.3}
+\contentsline {section}{\numberline {3.1}Distribui\IeC {\c c}\IeC {\~a}o de probabilidades}{23}{section.3.1}
+\contentsline {section}{\numberline {3.2}Sazonalidade}{25}{section.3.2}
+\contentsline {section}{\numberline {3.3}Horizonte de previs\IeC {\~a}o}{27}{section.3.3}
+\contentsline {section}{\numberline {3.4}M\IeC {\'e}todos}{28}{section.3.4}
+\contentsline {part}{\partnumberline {II}\MakeTextUppercase {Implementa\IeC {\c c}\IeC {\~a}o}}{29}{part.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Box-Jenkins}}{30}{chapter.4}
-\contentsline {section}{\numberline {4.1}An\IeC {\'a}lise visual}{32}{section.4.1}
-\contentsline {section}{\numberline {4.2}Regime estacion\IeC {\'a}rio}{33}{section.4.2}
-\contentsline {section}{\numberline {4.3}Autocorrela\IeC {\c c}\IeC {\~a}o}{35}{section.4.3}
-\contentsline {section}{\numberline {4.4}Redes neurais recorrentes}{36}{section.4.4}
-\contentsline {section}{\numberline {4.5}Janela de dados}{38}{section.4.5}
-\contentsline {section}{\numberline {4.6}Medidas de qualidade de previs\IeC {\~o}es}{40}{section.4.6}
-\contentsline {subsection}{\numberline {4.6.1}Erro m\IeC {\'e}dio absoluto (MAE)}{41}{subsection.4.6.1}
-\contentsline {subsection}{\numberline {4.6.2}Ra\IeC {\'\i }z do quadrado da m\IeC {\'e}dia do erro (RMSE)}{41}{subsection.4.6.2}
-\contentsline {subsection}{\numberline {4.6.3}Erro absoluto m\IeC {\'e}dio escalonado (MASE)}{41}{subsection.4.6.3}
-\contentsline {subsection}{\numberline {4.6.4}Valida\IeC {\c c}\IeC {\~a}o cruzada}{42}{subsection.4.6.4}
-\contentsline {section}{\numberline {4.7}Estabilidade}{43}{section.4.7}
-\contentsline {section}{\numberline {4.8}Previs\IeC {\~a}o}{44}{section.4.8}
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Box-Jenkins}}{31}{chapter.4}
+\contentsline {section}{\numberline {4.1}An\IeC {\'a}lise visual}{33}{section.4.1}
+\contentsline {section}{\numberline {4.2}Regime estacion\IeC {\'a}rio}{34}{section.4.2}
+\contentsline {section}{\numberline {4.3}Autocorrela\IeC {\c c}\IeC {\~a}o}{36}{section.4.3}
+\contentsline {section}{\numberline {4.4}Redes neurais recorrentes}{37}{section.4.4}
+\contentsline {section}{\numberline {4.5}Janela de dados}{39}{section.4.5}
+\contentsline {section}{\numberline {4.6}Medidas de qualidade de previs\IeC {\~o}es}{41}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Erro m\IeC {\'e}dio absoluto (MAE)}{42}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Ra\IeC {\'\i }z do quadrado da m\IeC {\'e}dia do erro (RMSE)}{42}{subsection.4.6.2}
+\contentsline {subsection}{\numberline {4.6.3}Erro absoluto m\IeC {\'e}dio escalonado (MASE)}{42}{subsection.4.6.3}
+\contentsline {subsection}{\numberline {4.6.4}Valida\IeC {\c c}\IeC {\~a}o cruzada}{43}{subsection.4.6.4}
+\contentsline {section}{\numberline {4.7}Estabilidade}{44}{section.4.7}
+\contentsline {section}{\numberline {4.8}Previs\IeC {\~a}o}{45}{section.4.8}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Modelo Autoregressivo Vari\IeC {\'a}vel}}{48}{chapter.5}
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Modelo Autoregressivo Vari\IeC {\'a}vel}}{49}{chapter.5}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {GARCH}}{50}{chapter.6}
-\contentsline {section}{\numberline {6.1}Base hor\IeC {\'a}ria}{50}{section.6.1}
-\contentsline {section}{\numberline {6.2}Expans\IeC {\~a}o do horizonte de previs\IeC {\~a}o}{52}{section.6.2}
-\contentsline {section}{\numberline {6.3}Base mensal}{52}{section.6.3}
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase {GARCH}}{51}{chapter.6}
+\contentsline {section}{\numberline {6.1}Base hor\IeC {\'a}ria}{51}{section.6.1}
+\contentsline {section}{\numberline {6.2}Base mensal}{52}{section.6.2}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Convers\IeC {\~a}o em energia}}{53}{chapter.7}
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase {Convers\IeC {\~a}o em energia}}{54}{chapter.7}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase {Valida\IeC {\c c}\IeC {\~a}o com outras s\IeC {\'e}ries}}{54}{chapter.8}
+\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase {Valida\IeC {\c c}\IeC {\~a}o com outras s\IeC {\'e}ries}}{56}{chapter.8}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\uppercase {Refer\^encias}}{56}{section*.11}
+\contentsline {chapter}{\uppercase {Refer\^encias}}{58}{section*.11}
 \vspace {\cftbeforechapterskip }

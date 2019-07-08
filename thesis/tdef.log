@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.2.20)  30 JUN 2019 18:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.2.20)  8 JUL 2019 00:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1785,418 +1785,418 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 ] [4
 
-] [5
+] [5] [6
 
 ] (./tdef.lof
 LaTeX Font Info:    Try loading font information for TS1+lmr on input line 10.
  (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [6
+)
+[7
 
-])
-[7] [8
+]) [8] [9
 
 ] (./tdef.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <14.4> on input line 9.
- [9
+ [10
 
-]) [10]
-<./images/abe_2017_2018.png, id=239, 234.3957pt x 95.1555pt>
+]) [11]
+<./images/abe_2017_2018.png, id=251, 234.3957pt x 95.1555pt>
 File: ./images/abe_2017_2018.png Graphic file (type png)
 <use ./images/abe_2017_2018.png>
-Package pdftex.def Info: ./images/abe_2017_2018.png  used on input line 500.
+Package pdftex.def Info: ./images/abe_2017_2018.png  used on input line 507.
 (pdftex.def)             Requested size: 455.0pt x 184.72772pt.
-<./images/abe_maiores_produtores.png, id=241, 503.8825pt x 513.92pt>
+<./images/abe_maiores_produtores.png, id=253, 503.8825pt x 513.92pt>
 File: ./images/abe_maiores_produtores.png Graphic file (type png)
 <use ./images/abe_maiores_produtores.png>
 Package pdftex.def Info: ./images/abe_maiores_produtores.png  used on input lin
-e 510.
+e 517.
 (pdftex.def)             Requested size: 302.33183pt x 308.35437pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[11
+[12
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.0.1}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.514 \FloatBarrier
+l.521 \FloatBarrier
                     <./images/abe_2017_2018.png>]
-<./images/abe_evolucao_capacidade_instalada.png, id=247, 1236.62pt x 394.47375p
+<./images/abe_evolucao_capacidade_instalada.png, id=260, 1236.62pt x 394.47375p
 t>
 File: ./images/abe_evolucao_capacidade_instalada.png Graphic file (type png)
 <use ./images/abe_evolucao_capacidade_instalada.png>
 Package pdftex.def Info: ./images/abe_evolucao_capacidade_instalada.png  used o
-n input line 520.
+n input line 527.
 (pdftex.def)             Requested size: 455.0pt x 145.14041pt.
- [12pdfTeX warning (ext4): destination with the same identifier (name{figure.0.
+ [13pdfTeX warning (ext4): destination with the same identifier (name{figure.0.
 2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.527 A
+l.534 A
         variabilidade do recurso e√≥lico representa um dos maiores desafios ...
 pdfTeX warning (ext4): destination with the same identifier (name{figure.0.3}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.527 A
+l.534 A
         variabilidade do recurso e√≥lico representa um dos maiores desafios ...
  <./images/abe_maiores_produtores.png> <./images/abe_evolucao_capacidade_instal
 ada.png>]
-<./images/powercurve.png, id=259, 1606.0pt x 1003.75pt>
+<./images/powercurve.png, id=271, 1606.0pt x 1003.75pt>
 File: ./images/powercurve.png Graphic file (type png)
 <use ./images/powercurve.png>
-Package pdftex.def Info: ./images/powercurve.png  used on input line 561.
+Package pdftex.def Info: ./images/powercurve.png  used on input line 568.
 (pdftex.def)             Requested size: 455.0pt x 284.37164pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[13]
-<./images/wind_money.png, id=274, 675.2427pt x 417.7206pt>
+[14]
+<./images/wind_money.png, id=286, 675.2427pt x 417.7206pt>
 File: ./images/wind_money.png Graphic file (type png)
 <use ./images/wind_money.png>
-Package pdftex.def Info: ./images/wind_money.png  used on input line 575.
+Package pdftex.def Info: ./images/wind_money.png  used on input line 582.
 (pdftex.def)             Requested size: 455.0pt x 281.47757pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[14pdfTeX warning (ext4): destination with the same identifier (name{figure.0.4
+[15pdfTeX warning (ext4): destination with the same identifier (name{figure.0.4
 }) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.578 \FloatBarrier
-                    <./images/powercurve.png>] [15pdfTeX warning (ext4): destin
+l.585 \FloatBarrier
+                    <./images/powercurve.png>] [16pdfTeX warning (ext4): destin
 ation with the same identifier (name{figure.0.5}) has been already used, duplic
 ate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.589 \cleardoublepage
-                       <./images/wind_money.png>] [16
+l.596 \cleardoublepage
+                       <./images/wind_money.png>] [17
 
 
 ]
-<./images/elevation2.png, id=296, 1460.45625pt x 1002.74625pt>
+<./images/elevation2.png, id=308, 1460.45625pt x 1002.74625pt>
 File: ./images/elevation2.png Graphic file (type png)
 <use ./images/elevation2.png>
-Package pdftex.def Info: ./images/elevation2.png  used on input line 600.
+Package pdftex.def Info: ./images/elevation2.png  used on input line 607.
 (pdftex.def)             Requested size: 455.0pt x 312.3935pt.
-<./images/arcmap.png, id=297, 794.97pt x 614.295pt>
+<./images/arcmap.png, id=309, 794.97pt x 614.295pt>
 File: ./images/arcmap.png Graphic file (type png)
 <use ./images/arcmap.png>
-Package pdftex.def Info: ./images/arcmap.png  used on input line 609.
+Package pdftex.def Info: ./images/arcmap.png  used on input line 616.
 (pdftex.def)             Requested size: 455.0pt x 351.59528pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[17
+[18
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1.6}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.612 \FloatBarrier
-                    <./images/elevation2.png>] [18pdfTeX warning (ext4): destin
+l.619 \FloatBarrier
+                    <./images/elevation2.png>] [19pdfTeX warning (ext4): destin
 ation with the same identifier (name{figure.1.7}) has been already used, duplic
 ate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.630 \item N
+l.637 \item N
              as bordas devido ao diferencial de eleva√ß√£o que causa acelera...
- <./images/arcmap.png (PNG copy)>] [19]
-<./images/era5nodes.png, id=313, 262.3401pt x 231.9867pt>
+ <./images/arcmap.png (PNG copy)>] [20]
+<./images/era5nodes.png, id=325, 262.3401pt x 231.9867pt>
 File: ./images/era5nodes.png Graphic file (type png)
 <use ./images/era5nodes.png>
-Package pdftex.def Info: ./images/era5nodes.png  used on input line 648.
+Package pdftex.def Info: ./images/era5nodes.png  used on input line 655.
 (pdftex.def)             Requested size: 455.0pt x 402.39339pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[20
+[21
 
-] [21pdfTeX warning (ext4): destination with the same identifier (name{figure.2
+] [22pdfTeX warning (ext4): destination with the same identifier (name{figure.2
 .8}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.661 \chapter
+l.668 \chapter
               {Caracteriza√ß√£o dos dados} <./images/era5nodes.png>]
-<./images/entire_series_hourly_basis.png, id=323, 718.8456pt x 374.1177pt>
+<./images/entire_series_hourly_basis.png, id=336, 718.8456pt x 374.1177pt>
 File: ./images/entire_series_hourly_basis.png Graphic file (type png)
 <use ./images/entire_series_hourly_basis.png>
 Package pdftex.def Info: ./images/entire_series_hourly_basis.png  used on input
- line 667.
+ line 674.
 (pdftex.def)             Requested size: 455.0pt x 236.79715pt.
-<./images/normal_overlay.png, id=324, 675.27281pt x 417.81094pt>
+<./images/normal_overlay.png, id=337, 675.27281pt x 417.81094pt>
 File: ./images/normal_overlay.png Graphic file (type png)
 <use ./images/normal_overlay.png>
-Package pdftex.def Info: ./images/normal_overlay.png  used on input line 680.
+Package pdftex.def Info: ./images/normal_overlay.png  used on input line 687.
 (pdftex.def)             Requested size: 455.0pt x 281.5257pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[22
+[23
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.9}) 
 has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.683 \FloatBarrier
+l.690 \FloatBarrier
                     <./images/entire_series_hourly_basis.png>]
-<./images/cullen.png, id=331, 675.27281pt x 417.81094pt>
+<./images/cullen.png, id=343, 675.27281pt x 417.81094pt>
 File: ./images/cullen.png Graphic file (type png)
 <use ./images/cullen.png>
-Package pdftex.def Info: ./images/cullen.png  used on input line 689.
+Package pdftex.def Info: ./images/cullen.png  used on input line 696.
 (pdftex.def)             Requested size: 455.0pt x 281.5257pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[23pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
+[24pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
 0}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.693 \FloatBarrier
+l.700 \FloatBarrier
                     <./images/normal_overlay.png (PNG copy)>]
-<./images/windrose.png, id=336, 699.3327pt x 417.7206pt>
+<./images/windrose.png, id=349, 699.3327pt x 417.7206pt>
 File: ./images/windrose.png Graphic file (type png)
 <use ./images/windrose.png>
-Package pdftex.def Info: ./images/windrose.png  used on input line 699.
-(pdftex.def)             Requested size: 455.0pt x 271.78287pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[24pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
-1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.703 \FloatBarrier
-                    <./images/cullen.png (PNG copy)>]
-<./images/season_plot.png, id=342, 699.3327pt x 417.7206pt>
-File: ./images/season_plot.png Graphic file (type png)
-<use ./images/season_plot.png>
-Package pdftex.def Info: ./images/season_plot.png  used on input line 707.
+Package pdftex.def Info: ./images/windrose.png  used on input line 706.
 (pdftex.def)             Requested size: 455.0pt x 271.78287pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [25pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
-2}) has been already used, duplicate ignored
+1}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.710 \FloatBarrier
+                    <./images/cullen.png (PNG copy)>]
+<./images/season_plot.png, id=354, 699.3327pt x 417.7206pt>
+File: ./images/season_plot.png Graphic file (type png)
+<use ./images/season_plot.png>
+Package pdftex.def Info: ./images/season_plot.png  used on input line 714.
+(pdftex.def)             Requested size: 455.0pt x 271.78287pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[26pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1
+2}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.717 \FloatBarrier
                    pdfTeX warning (ext4): destination with the same identifier 
 (name{figure.3.13}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.710 \FloatBarrier
+l.717 \FloatBarrier
                     <./images/windrose.png (PNG copy)> <./images/season_plot.pn
 g (PNG copy)>]
-<./images/season_plot_polar.png, id=347, 699.3327pt x 417.7206pt>
+<./images/season_plot_polar.png, id=359, 699.3327pt x 417.7206pt>
 File: ./images/season_plot_polar.png Graphic file (type png)
 <use ./images/season_plot_polar.png>
-Package pdftex.def Info: ./images/season_plot_polar.png  used on input line 714
+Package pdftex.def Info: ./images/season_plot_polar.png  used on input line 721
 .
 (pdftex.def)             Requested size: 455.0pt x 271.78287pt.
- [26
+ [27
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3.14})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.743 \item S
+l.750 \item S
              uaviza√ß√£o exponencial: os valores passados contribuem para o ...
- <./images/season_plot_polar.png (PNG copy)>] [27] [28
+ <./images/season_plot_polar.png (PNG copy)>] [28] [29
 
-] [29]
-<./images/boxjenkins.png, id=365, 429.605pt x 984.67876pt>
+] [30]
+<./images/boxjenkins.png, id=378, 429.605pt x 984.67876pt>
 File: ./images/boxjenkins.png Graphic file (type png)
 <use ./images/boxjenkins.png>
-Package pdftex.def Info: ./images/boxjenkins.png  used on input line 784.
+Package pdftex.def Info: ./images/boxjenkins.png  used on input line 791.
 (pdftex.def)             Requested size: 300.72144pt x 689.27043pt.
 
 
-LaTeX Warning: Float too large for page by 12.60374pt on input line 786.
+LaTeX Warning: Float too large for page by 12.60374pt on input line 793.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[30
+[31
 
-] [31pdfTeX warning (ext4): destination with the same identifier (name{figure.4
+] [32pdfTeX warning (ext4): destination with the same identifier (name{figure.4
 .15}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.787 \FloatBarrier
+l.794 \FloatBarrier
                     <./images/boxjenkins.png>]
 File: ./images/entire_series_hourly_basis.png Graphic file (type png)
 <use ./images/entire_series_hourly_basis.png>
 Package pdftex.def Info: ./images/entire_series_hourly_basis.png  used on input
- line 799.
+ line 806.
 (pdftex.def)             Requested size: 455.0pt x 236.79715pt.
- [32
+ [33
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.16})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.810 
+l.817 
       ]
-<./images/entire_series_hourly_basis_seasonless.png, id=380, 718.8456pt x 374.1
+<./images/entire_series_hourly_basis_seasonless.png, id=392, 718.8456pt x 374.1
 177pt>
 File: ./images/entire_series_hourly_basis_seasonless.png Graphic file (type png
 )
 <use ./images/entire_series_hourly_basis_seasonless.png>
 Package pdftex.def Info: ./images/entire_series_hourly_basis_seasonless.png  us
-ed on input line 815.
+ed on input line 822.
 (pdftex.def)             Requested size: 455.0pt x 236.79715pt.
- [33pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+ [34pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
 17}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.823 
+l.830 
        <./images/entire_series_hourly_basis_seasonless.png>]
-<./images/entire_series_hourly_basis_seasonless_boxcox.png, id=388, 745.1037pt 
+<./images/entire_series_hourly_basis_seasonless_boxcox.png, id=400, 745.1037pt 
 x 386.1627pt>
 File: ./images/entire_series_hourly_basis_seasonless_boxcox.png Graphic file (t
 ype png)
 <use ./images/entire_series_hourly_basis_seasonless_boxcox.png>
 Package pdftex.def Info: ./images/entire_series_hourly_basis_seasonless_boxcox.
-png  used on input line 839.
+png  used on input line 846.
 (pdftex.def)             Requested size: 455.0pt x 235.81227pt.
- [34pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+ [35pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
 18}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.851 
+l.858 
        <./images/entire_series_hourly_basis_seasonless_boxcox.png>]
-<./images/long_memory.png, id=398, 612.78937pt x 386.19281pt>
+<./images/long_memory.png, id=410, 612.78937pt x 386.19281pt>
 File: ./images/long_memory.png Graphic file (type png)
 <use ./images/long_memory.png>
-Package pdftex.def Info: ./images/long_memory.png  used on input line 870.
+Package pdftex.def Info: ./images/long_memory.png  used on input line 877.
 (pdftex.def)             Requested size: 455.0pt x 286.7505pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[35]
-<./images/long_memory_lagmax.png, id=405, 570.4512pt x 374.1177pt>
+[36]
+<./images/long_memory_lagmax.png, id=418, 570.4512pt x 374.1177pt>
 File: ./images/long_memory_lagmax.png Graphic file (type png)
 <use ./images/long_memory_lagmax.png>
-Package pdftex.def Info: ./images/long_memory_lagmax.png  used on input line 88
-3.
+Package pdftex.def Info: ./images/long_memory_lagmax.png  used on input line 89
+0.
 (pdftex.def)             Requested size: 455.0pt x 298.40404pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[36pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
+[37pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1
 9}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.886 \FloatBarrier
+l.893 \FloatBarrier
                     <./images/long_memory.png (PNG copy)>]
-<./images/lstm.png, id=411, 1716.4125pt x 572.1375pt>
+<./images/lstm.png, id=423, 1716.4125pt x 572.1375pt>
 File: ./images/lstm.png Graphic file (type png)
 <use ./images/lstm.png>
-Package pdftex.def Info: ./images/lstm.png  used on input line 894.
+Package pdftex.def Info: ./images/lstm.png  used on input line 901.
 (pdftex.def)             Requested size: 455.0pt x 151.65936pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[37pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
+[38pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
 0}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.897 \FloatBarrier
+l.904 \FloatBarrier
                     <./images/long_memory_lagmax.png (PNG copy)>]
-<./images/last3weeks.png, id=416, 570.4512pt x 374.1177pt>
+<./images/last3weeks.png, id=428, 570.4512pt x 374.1177pt>
 File: ./images/last3weeks.png Graphic file (type png)
 <use ./images/last3weeks.png>
-Package pdftex.def Info: ./images/last3weeks.png  used on input line 907.
+Package pdftex.def Info: ./images/last3weeks.png  used on input line 914.
 (pdftex.def)             Requested size: 455.0pt x 298.40404pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[38pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
-1}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.910 \FloatBarrier
-                    <./images/lstm.png>]
-<./images/last3weeks_acf.png, id=422, 570.63188pt x 374.14781pt>
-File: ./images/last3weeks_acf.png Graphic file (type png)
-<use ./images/last3weeks_acf.png>
-Package pdftex.def Info: ./images/last3weeks_acf.png  used on input line 916.
-(pdftex.def)             Requested size: 455.0pt x 298.33098pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [39pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
+1}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.917 \FloatBarrier
+                    <./images/lstm.png>]
+<./images/last3weeks_acf.png, id=434, 570.63188pt x 374.14781pt>
+File: ./images/last3weeks_acf.png Graphic file (type png)
+<use ./images/last3weeks_acf.png>
+Package pdftex.def Info: ./images/last3weeks_acf.png  used on input line 923.
+(pdftex.def)             Requested size: 455.0pt x 298.33098pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[40pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
 2}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.919 \FloatBarrier
-                    <./images/last3weeks.png>] [40pdfTeX warning (ext4): destin
+l.926 \FloatBarrier
+                    <./images/last3weeks.png>] [41pdfTeX warning (ext4): destin
 ation with the same identifier (name{figure.4.23}) has been already used, dupli
 cate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.936 
-       <./images/last3weeks_acf.png (PNG copy)>] [41]
-<./images/crossh3.png, id=436, 675.2427pt x 417.7206pt>
+l.943 
+       <./images/last3weeks_acf.png (PNG copy)>] [42]
+<./images/crossh3.png, id=450, 675.2427pt x 417.7206pt>
 File: ./images/crossh3.png Graphic file (type png)
 <use ./images/crossh3.png>
-Package pdftex.def Info: ./images/crossh3.png  used on input line 971.
+Package pdftex.def Info: ./images/crossh3.png  used on input line 978.
 (pdftex.def)             Requested size: 455.0pt x 281.47757pt.
- [42pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
+ [43pdfTeX warning (ext4): destination with the same identifier (name{figure.4.
 24}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.981 
+l.988 
        <./images/crossh3.png (PNG copy)>]
-<./images/conds.png, id=442, 570.4512pt x 374.1177pt>
+<./images/conds.png, id=455, 570.4512pt x 374.1177pt>
 File: ./images/conds.png Graphic file (type png)
 <use ./images/conds.png>
-Package pdftex.def Info: ./images/conds.png  used on input line 1012.
+Package pdftex.def Info: ./images/conds.png  used on input line 1019.
 (pdftex.def)             Requested size: 455.0pt x 298.40404pt.
 
-Underfull \hbox (badness 1803) in paragraph at lines 1013--1013
+Underfull \hbox (badness 1803) in paragraph at lines 1020--1020
 [][]\T1/lmr/m/n/12 (+20) CondiÁıes de re-gime es-ta-ci-o-n·-rio e in-ver-ti-bi-
 li-dade para um mo-delo
  []
@@ -2204,32 +2204,11 @@ li-dade para um mo-delo
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[43]
-<./images/arima12.png, id=453, 591.6504pt x 386.1627pt>
+[44]
+<./images/arima12.png, id=465, 591.6504pt x 386.1627pt>
 File: ./images/arima12.png Graphic file (type png)
 <use ./images/arima12.png>
-Package pdftex.def Info: ./images/arima12.png  used on input line 1025.
-(pdftex.def)             Requested size: 455.0pt x 296.98087pt.
-
-Underfull \hbox (badness 1803) in paragraph at lines 1026--1026
-[][]\T1/lmr/m/n/12 (+20) CondiÁıes de re-gime es-ta-ci-o-n·-rio e in-ver-ti-bi-
-li-dade para um mo-delo
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[44pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
-5}) has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.1028 \FloatBarrier
-                     <./images/conds.png (PNG copy)>]
-<./images/arima34.png, id=458, 591.6504pt x 386.1627pt>
-File: ./images/arima34.png Graphic file (type png)
-<use ./images/arima34.png>
-Package pdftex.def Info: ./images/arima34.png  used on input line 1032.
+Package pdftex.def Info: ./images/arima12.png  used on input line 1032.
 (pdftex.def)             Requested size: 455.0pt x 296.98087pt.
 
 Underfull \hbox (badness 1803) in paragraph at lines 1033--1033
@@ -2241,107 +2220,166 @@ li-dade para um mo-delo
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [45pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
-6}) has been already used, duplicate ignored
+5}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.1035 \FloatBarrier
-                     <./images/arima12.png (PNG copy)>] [46pdfTeX warning (ext4
+                     <./images/conds.png (PNG copy)>]
+<./images/arima34.png, id=470, 591.6504pt x 386.1627pt>
+File: ./images/arima34.png Graphic file (type png)
+<use ./images/arima34.png>
+Package pdftex.def Info: ./images/arima34.png  used on input line 1039.
+(pdftex.def)             Requested size: 455.0pt x 296.98087pt.
+
+Underfull \hbox (badness 1803) in paragraph at lines 1040--1040
+[][]\T1/lmr/m/n/12 (+20) CondiÁıes de re-gime es-ta-ci-o-n·-rio e in-ver-ti-bi-
+li-dade para um mo-delo
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[46pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2
+6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1042 \FloatBarrier
+                     <./images/arima12.png (PNG copy)>] [47pdfTeX warning (ext4
 ): destination with the same identifier (name{figure.4.27}) has been already us
 ed, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1035 \FloatBarrier
-                     <./images/arima34.png (PNG copy)>] [47
+l.1042 \FloatBarrier
+                     <./images/arima34.png (PNG copy)>] [48
 
 ]
-<./images/var_arima.png, id=473, 675.2427pt x 417.7206pt>
+<./images/var_arima.png, id=486, 675.2427pt x 417.7206pt>
 File: ./images/var_arima.png Graphic file (type png)
 <use ./images/var_arima.png>
-Package pdftex.def Info: ./images/var_arima.png  used on input line 1079.
+Package pdftex.def Info: ./images/var_arima.png  used on input line 1086.
 (pdftex.def)             Requested size: 455.0pt x 281.47757pt.
- [48
+ [49
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5.28})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1086 
+l.1093 
         <./images/var_arima.png (PNG copy)>]
-<./images/var_result.png, id=479, 675.2427pt x 417.7206pt>
+<./images/var_result.png, id=491, 675.2427pt x 417.7206pt>
 File: ./images/var_result.png Graphic file (type png)
 <use ./images/var_result.png>
-Package pdftex.def Info: ./images/var_result.png  used on input line 1095.
+Package pdftex.def Info: ./images/var_result.png  used on input line 1102.
 (pdftex.def)             Requested size: 455.0pt x 281.47757pt.
- [49pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
+ [50pdfTeX warning (ext4): destination with the same identifier (name{figure.5.
 29}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1100 \chapter
+l.1107 \chapter
                {GARCH} <./images/var_result.png (PNG copy)>]
-<./images/diurnal.png, id=484, 551.661pt x 344.7279pt>
+<./images/diurnal.png, id=496, 551.661pt x 344.7279pt>
 File: ./images/diurnal.png Graphic file (type png)
 <use ./images/diurnal.png>
-Package pdftex.def Info: ./images/diurnal.png  used on input line 1110.
+Package pdftex.def Info: ./images/diurnal.png  used on input line 1117.
 (pdftex.def)             Requested size: 455.0pt x 284.32512pt.
- [50
+ [51
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6.30})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1119 \end{equation}
+l.1126 \end{equation}
                       <./images/diurnal.png>]
-<./images/garch_first.png, id=491, 688.7331pt x 374.1177pt>
+<./images/garch_first.png, id=503, 688.7331pt x 374.1177pt>
 File: ./images/garch_first.png Graphic file (type png)
 <use ./images/garch_first.png>
-Package pdftex.def Info: ./images/garch_first.png  used on input line 1129.
+Package pdftex.def Info: ./images/garch_first.png  used on input line 1136.
 (pdftex.def)             Requested size: 455.0pt x 247.1582pt.
- [51pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
+ [52pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
 31}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1159 
+l.1164 
         <./images/garch_first.png (PNG copy)>]
-<./images/garch_month.png, id=499, 688.7331pt x 374.1177pt>
+<./images/garch_month.png, id=511, 688.7331pt x 374.1177pt>
 File: ./images/garch_month.png Graphic file (type png)
 <use ./images/garch_month.png>
-Package pdftex.def Info: ./images/garch_month.png  used on input line 1162.
+Package pdftex.def Info: ./images/garch_month.png  used on input line 1167.
 (pdftex.def)             Requested size: 455.0pt x 247.1582pt.
- [52pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
+ [53pdfTeX warning (ext4): destination with the same identifier (name{figure.6.
 32}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1177 \chapter
+l.1183 \chapter
                {Convers√£o em energia} <./images/garch_month.png (PNG copy)>]
-[53
+<./images/power_curve.png, id=517, 482.5227pt x 373.1541pt>
+File: ./images/power_curve.png Graphic file (type png)
+<use ./images/power_curve.png>
+Package pdftex.def Info: ./images/power_curve.png  used on input line 1189.
+(pdftex.def)             Requested size: 455.0pt x 351.88089pt.
 
-]
-<./images/latam.png, id=513, 412.4208pt x 227.4096pt>
-File: ./images/latam.png Graphic file (type png)
-<use ./images/latam.png>
-Package pdftex.def Info: ./images/latam.png  used on input line 1187.
-(pdftex.def)             Requested size: 455.0pt x 250.8939pt.
- [54
+[54
 
-pdfTeX warning (ext4): destination with the same identifier (name{figure.8.33})
+pdfTeX warning (ext4): destination with the same identifier (name{figure.7.33})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.1194 O
+l.1195 
+        <./images/power_curve.png>]
+<./images/speed_power.png, id=525, 482.5227pt x 373.1541pt>
+File: ./images/speed_power.png Graphic file (type png)
+<use ./images/speed_power.png>
+Package pdftex.def Info: ./images/speed_power.png  used on input line 1200.
+(pdftex.def)             Requested size: 455.0pt x 351.88089pt.
+ [55pdfTeX warning (ext4): destination with the same identifier (name{figure.7.
+34}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1207 \chapter
+               {Valida√ß√£o com outras s√©ries} <./images/speed_power.png>]
+<./images/latam.png, id=536, 412.4208pt x 227.4096pt>
+File: ./images/latam.png Graphic file (type png)
+<use ./images/latam.png>
+Package pdftex.def Info: ./images/latam.png  used on input line 1215.
+(pdftex.def)             Requested size: 455.0pt x 250.8939pt.
+
+[56
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.8.35})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.1222 O
          modelo GARCH(1,1) foi aplicado em cada uma das s√©ries cujas locali...
  <./images/latam.png>] (./tdef.bbl (./tdef.brf)
 \tf@brf=\write6
 \openout6 = `tdef.brf'.
 
- [55]
+ [57pdfTeX warning (ext4): destination with the same identifier (name{table.8.1
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.3 ...th{\labelsep}{0pt}\begin{thebibliography}{}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{table.8.2}) has been already used, duplica
+te ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.3 ...th{\labelsep}{0pt}\begin{thebibliography}{}
+                                                  ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 3.
@@ -2349,7 +2387,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 bibitemlist
 ) (./tdef.ind) 
 AED: lastpage setting LastPage
-[56
+[58
 
 ]
 \tf@lof=\write7
@@ -2358,28 +2396,28 @@ AED: lastpage setting LastPage
 \tf@toc=\write8
 \openout8 = `tdef.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1571.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1571.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1660.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1660.
  (./tdef.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1571.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1571.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1660.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1660.
 
 Package rerunfilecheck Info: File `tdef.brf' has not changed.
-(rerunfilecheck)             Checksum: 183F4EFBE77237198F600F85800ADFA0;402.
+(rerunfilecheck)             Checksum: EB74466A848D78F72774799D3AB944D3;542.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1571.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1660.
  ) 
 Here is how much of TeX's memory you used:
- 36925 strings out of 492641
- 692386 string characters out of 6131787
- 879945 words of memory out of 5000000
- 39951 multiletter control sequences out of 15000+600000
+ 36942 strings out of 492641
+ 692723 string characters out of 6131787
+ 881985 words of memory out of 5000000
+ 39961 multiletter control sequences out of 15000+600000
  645981 words of font info for 173 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,14n,63p,1452b,928s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,14n,63p,1452b,933s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dv
 ips/lm/lm-mathsy.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share
 /texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm
@@ -2397,10 +2435,10 @@ type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb
 ></usr/share/texmf/fonts/type1/public/lm/lmsy6.pfb></usr/share/texmf/fonts/type
 1/public/lm/lmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
 s/symbols/msbm10.pfb>
-Output written on tdef.pdf (57 pages, 11184924 bytes).
+Output written on tdef.pdf (59 pages, 11402940 bytes).
 PDF statistics:
- 768 PDF objects out of 1000 (max. 8388607)
- 632 compressed objects within 7 object streams
- 157 named destinations out of 1000 (max. 500000)
- 45021 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 792 PDF objects out of 1000 (max. 8388607)
+ 650 compressed objects within 7 object streams
+ 162 named destinations out of 1000 (max. 500000)
+ 45023 words of extra memory for PDF output out of 51595 (max. 10000000)
 

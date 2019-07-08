@@ -80,6 +80,50 @@ modelroll <- result[[2]]
 title <- paste('GARCH(1,1) com janela de 50 horas e passo de 1 hora')
 garch_plot(hourly.data, modelroll, title, 'garch_first.png', 4, forecast_length)
 
+#po_map <- function(speeds){
+#  for (speed in speeds){
+#    df['closest'] <- abs(df$speed-speed)
+#    (df %>% arrange(closest))$power %>% first()  
+#  }
+#}
+
+#***************
+#* power curve *
+#***************
+
+path <- '/home/diogo/Jupyter/tdef/Vestas V150-4.0-4.2 MW PO1.txt'
+df <- read.table(path, col.names=c('speed', 'power')) %>% add_row(speed=26.5, power=0) %>% as_tibble()
+df %>% ggplot(aes(x=speed, y=power)) + geom_line() + 
+  labs(x = 'Velocidade (m/s)', y = 'Potência (kW)') +
+  ggtitle('Curva de potência de uma turbina genérica')
+ggsave('thesis/images/power_curve.png')
+forecast.mean <- tibble(speed=modelroll@forecast$density[,'Mu'])
+forecast.mean$interval <- cut(forecast.mean$speed, breaks=c(-1,df$speed))
+df$interval <- cut(df$speed, breaks=c(-1,df$speed))
+
+
+df <- select(df, -c(speed))
+fdf <- join(forecast.mean, df, by='interval')
+fdf$x <- 1:nrow(fdf)
+plot2 <- fdf %>% ggplot(aes(x=x)) + geom_line(aes(y=power)) + 
+  labs(x = 'Tempo (hora)', y = 'Potência (kW)') +
+  ggtitle('Potência desenvolvida por uma turbina em base horária')
+
+plot1 <- fdf %>% ggplot(aes(x=x)) + geom_line(aes(y=speed)) + 
+  labs(x = 'Tempo (hora)', y = 'Velocidade (m/s)') +
+  ggtitle('Velocidade do vento em base horária')
+
+require(gridExtra)
+grid.arrange(plot1, plot2, nrow=2) 
+ggsave('thesis/images/speed_power.png', arrangeGrob(plot1, plot2))
+
+#*******************
+#* site validation *
+#*******************
+
+nrow(fdf)
+fdf$power %>% sum()
+
 ptm <- proc.time()
 root <- '/home/diogo/Downloads/ERA5'
 paths <- list.files(path=root, pattern="*.txt", full.names=TRUE, recursive=FALSE)
@@ -153,9 +197,14 @@ modelroll <- result[1]
 title <- paste('GARCH(1,1) com janela de 4 meses e passo de 1 mês')
 garch_plot(monthly.data, modelroll, title, 'garch_month.png', 4, forecast_length)
 
+#CLIENT
 
+path <- '/home/diogo/Downloads/Enerplan-Pontal_REV03_SH.cal'
+df <- read.table(path, sep='\t', header=T)
 
-
+tdf <- as_tibble(df)
+tdf <- tdf %>% na_if(9999)
+tdf['P2B.WS80.Mean'] %>% drop_na()
 
 
 

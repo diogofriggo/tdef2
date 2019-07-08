@@ -375,28 +375,34 @@
 % resumo em português
 \setlength{\absparsep}{18pt} % ajusta o espaçamento dos parágrafos do resumo
 \begin{resumo}
-Todos os agentes envolvidos no planejamento de um parque eólico precisam determinar, com um certo nível de certeza, quanta energia este poderá gerar. Investidores precisam avaliar o risco associado ao financiamento da construção do parque em relação a um retorno futuro. Produtores precisam garantir um determinado nível de produção de energia com base em acordos mensais com compradores. Operadores de subestações, por outro lado, precisam ter uma estimativa da produção em resolução horária de modo a evitar perdas elétricas e para que possam atender adequadamente a demanda por energia a qual sabe-se que varia ao longo do dia de maneira previsível e conhecida a partir de dados históricos de consumo por uma dada região.
-
-%a sua viabilidade e maximizar a geração a partir de medições que estão sujeitas às diversas variáveis que definem o comportamento do vento no local tais como orografia, rugosidade e clima. Estes também devem considerar variáveis que afetam o desempenho de turbinas tais como temperatura, salinidade e presença de parques vizinhos. 
+Todos os agentes envolvidos no planejamento de um parque eólico precisam garantir, com um certo nível de certeza, quanta energia este poderá gerar. Investidores precisam avaliar o risco associado ao financiamento da construção do parque em relação a um retorno futuro. Produtores precisam garantir um determinado nível de produção de energia com base em acordos mensais com compradores. Operadores de subestações, por outro lado, precisam ter uma estimativa da produção em resolução horária de modo a evitar perdas elétricas e para que possam atender adequadamente a demanda por energia a qual sabe-se que varia ao longo do dia de maneira previsível e conhecida a partir de dados históricos de consumo por uma dada região.
 
 Atualmente existem metodologias bem estabelecidas na indústria para a estimativa do recurso eólico de longo prazo e da geração de energia de longo prazo, geralmente para um horizonte de 20 anos. Elas se baseiam no fato de que, a longo prazo, a distribuição de probabilidade da velocidade do vento aproxima-se de uma distribuição de Weibull \cite{weibull} a qual é então convertida em uma distribuição de probabilidade de energia por meio de uma curva de potência de uma determinada turbina. Essa distribuição de densidade de probabilidade é a mais difundida na análise de dados de vento \cite{art13},  tendo sido utilizada para estimar tanto o recurso eólico \cite{art14} quanto a produção de energia \cite{art15}.
 
-Tais métodos, no entanto, não se aplicam a estimativas de curto prazo, pois, sob essa resolução temporal, o caráter estocástico do vento predomina não sendo possível reduzir o seu comportamento a uma distribuição de probabilidade estática. É necessário recorrer a outra abordagem para tal estimativa. O presente trabalho propõe a modelagem estocástica do processo físico que rege o comportamento do vento por meio de diferentes métodos, conhecidos e aplicados com sucesso na modelagem de outro processos estocásticos, em particular na área financeira. Tal modelagem permite obter uma estimativa da geração de energia em tanto em resolução mensal quanto horária.
+O sucesso das metodologias supracitadas é explicado pelo fato de que um longo período de dados é utilizado para produzir uma previsão de extensão temporal similar. Isso tem o efeito de remover flutuações que são observados entre diferentes períodos. Com tantos dados disponíveis, uma distribuição pode ser adequadamente ajustada, a qual fidedignamente representa a verdadeira distribuição de velocidade do vento. Há uma vasta quantidade de trabalhos comerciais que confirmam essa hipótese. No entanto, há uma crescente necessidade de obter-se previsões cada vez mais próximas do presente. Sempre que a produção de energia prevista não corresponde a energia efetivamente gerada, todas as partes envolvidas perdem dinheiro. Mesmo que mais energia do que o esperado seja gerada, ainda assim é comum que a subestação que receberá essa energia não esteja preparada para receber energia em excesso.
 
- \textbf{Palavras-chave}: energia eólica, processo estocástico, modelos autoregressivos
+
+Um passo inicial na tentativa de encontrar um equilíbrio na cadeia de produção e distribuição de energia eólica consiste em primeiramente prever com um certo grau de confiança a velocidade do vento futura, dado que essa é a variável que é a maior responsável pela incerteza na produção de energia. Este trabalho propõe o uso de modelos autoregressivos, em particular modelos GARCH, de modo a produzir previsões confiáveis em um horizonte de horas até meses.
+
+ \textbf{Palavras-chave}: energia eólica, previsão de séries temporais, modelos autoregressivos
 \end{resumo}
 
 % resumo em inglês
 \begin{resumo}[Abstract]
  \begin{otherlanguage*}{english}
-	Every stakeholder of a windfarm must ensure, within a specified confidence level, how much energy that windfarm may generate. Investors must balance the risk that goes along with financing such a project and the expected return of investment. Developers are held accountable to a certain level of energy production that is previously agreed upon, usually on a monthly basis. Grid operators on the other hand demand an hourly estimate of production so that they can match offer to demand with minimal losses due to circuit inadequacy. Energy demand follows a quite predictable pattern that may be easily anticipated based on past data. That is much less so the case for energy offer which besides coming from a variety of sources also brings along a lot of complexities, some of which are discussed on this text for the case of energy derived from wind.
+	Every stakeholder of a windfarm must ensure, within a specified confidence level, how much energy that windfarm may generate. Investors must balance the risk that goes along with financing such a project and the expected return of investment. Developers are held accountable to a certain level of energy production that is previously agreed upon, usually on a monthly basis, but also yearly. Grid operators on the other hand demand an hourly estimate of production so that they can match offer to demand with minimal losses due to circuit inadequacy. Energy demand follows a quite predictable pattern that may be easily anticipated based on past data. That is much less so the case for energy offer which, besides coming from a variety of sources, also brings along a lot of complexities, some of which are discussed on this text for the case of energy derived from wind.
 	
-	Nowadays, there are well-established methodologies
+	Nowadays there are well-established methodologies in the field of wind energy forecasting. Usually the time horizon involved is of 20 years. These methodologies rest on the assumption that a long-tailed Weibull distribution \cite{weibull} may always be fit to long-term wind speed. This distribution is considered representative of 20 years into the future and is then converted into energy \cite{art15} by mapping it through a power curve specific to a manufacturer's turbine model. 
+Its widespread use is justified by the vast amount of commercial work done on the hyphotesis that a Weibull distribution best describes long-term wind speed \cite{art14}.
+
+	The success of the aforementioned metholodogies may be explained by the fact that a very long period of data is used to achieve a similarly long forecast. This has the effect of averaging out fluctuations observed from one period to the next. With so much data available a distribution fit may be found which reliably represents the true wind speed distribution. There are a plethora of commercial work that support this view. However, there's a growing need to bring the forecast horizon ever closer to the present. Whenever the forecast energy production doesn't match the realized one, all stakeholders lose money. Even if more energy than expected is produced there's money lost because the target substation may not be able to handle the excess energy. 
+	
+	An initial step into finding the optimal balance in this wind energy chain is to first confidently predict future wind speed since this is the variable that is mostly responsible for the uncertainty in energy production. This work pursues the use of autoregressive models, particularly of GARCH models, in order to achieve reliable forecasts with a time horizon of the order of hours to months.
 
 %   \vspace{\onelineskip}
  
 %   \noindent 
-   \textbf{Keywords}: latex. abntex. text editoration.
+   \textbf{Keywords}: wind energy, time-series forecasting, autoregressive models
  \end{otherlanguage*}
 \end{resumo}
 
@@ -1129,13 +1135,15 @@ A equação \ref{eq61} deixa claro a analogia entre um modelo ARIMA e um GARCH. 
     \centering
 	\includegraphics[width=\textwidth]{garch_first}
 	\caption{GARCH}
+	\label{fig:garch}
 \end{figure}
 \FloatBarrier
 
-\begin{center}
+\begin{table}[h]
+\centering
 \begin{tabular}{ |c|c|c|c|c|c| } 
 \hline
-Modelo&ME&RMSE&MAE&MPE&MAPE \\
+\textbf{Modelo}&\textbf{ME}&\textbf{RMSE}&\textbf{MAE}&\textbf{MPE}&\textbf{MAPE}\\
 \hline
 GARCH(1,1)&-0.04246845&0.06505767&0.05117909&-2.449632&2.592525 \\
 \hline
@@ -1148,11 +1156,7 @@ ARIMA(1,1,2)&0.01559968&0.2490103&0.1870849&-0.8393794&6.151953 \\
 ARIMA(2,1,3)&0.01455176&0.3189862&0.2380204&-0.8382305&7.968127 \\
 \hline
 \end{tabular}
-\end{center}
-
-\section{Expansão do horizonte de previsão}
-
-
+\end{table}
 
 \section{Base mensal}
 
@@ -1165,17 +1169,40 @@ Embora a previsão horária seja de grande utilidade tanto para operadores de pa
 \end{figure}
 \FloatBarrier
 
-\begin{center}
+\begin{table}[h]
+\centering
 \begin{tabular}{ |c|c|c|c|c|c| } 
 \hline
-Modelo&ME&RMSE&MAE&MPE&MAPE \\
+\textbf{Modelo}&\textbf{ME}&\textbf{RMSE}&\textbf{MAE}&\textbf{MPE}&\textbf{MAPE}\\
 \hline
 GARCH(1,1)&0.06669541&0.1773425&0.1461843&0.5504064&2.893245\\
 \hline
 \end{tabular}
-\end{center}
+\end{table}
 
 \chapter{Conversão em energia}
+
+De acordo com a equação \ref{eq:1} a potência desenvolvida por um aerogerador é função principalmente da área coberta pelas suas pás, da densidade local do ar e do cubo da velocidade do vento. Exceto pela velocidade do vento os demais parâmetros variam pouco. Dessa forma, uma vez definidos os outros parâmetros, é possível obter a potência desenvolvida por um aerogerador por meio de sua curva de potência que mapeia intervalos de velocidade em intervalos de potência. A figura abaixo é um exemplo de curva de potência genérica:
+
+\begin{figure}[h]
+    \centering
+	\includegraphics[width=\textwidth]{power_curve}
+	\caption{Curva de potência de um aerogerador genérico.}
+\end{figure}
+\FloatBarrier
+
+As curvas de potência de qualquer turbina eólica possuem esse formato característico. A turbina só produz energia a partir de uma certa velocidade mínima. Para velocidades mais altas encontra uma região linear, onde a potência aumenta linearmente com a velocidade. Para uma certa velocidade chega-se num plateau de potência acima do qual um aumento de velocidade não causa variação na potência. Para velocidades muito altas é necessário desacelerar a rotação das pás de modo a não danificar componentes do aerogerador e portanto a potência decai. Quando a velocidade excede um valor limite é necessário desligar o aerogerador.
+
+O mapeamento entre velocidade e potência é exibido abaixo. A série temporal de velocidade do vento corresponde àquela para a qual foi feita a previsão em 	\ref{fig:garch}.
+
+\begin{figure}[h]
+    \centering
+	\includegraphics[width=\textwidth]{speed_power}
+	\caption{Curva de potência de um aerogerador genérico.}
+\end{figure}
+\FloatBarrier
+
+De acordo com essa curva a energia total produzida nas 500 horas previstas seria de 217 MWh. Embora durante o período considerado a geração tenha ficado distante da potência máxima, o aerogerador produziu uma quantidade expressiva de energia. Se no mesmo período de 500 horas o aerogerador operasse no seu valor máximo de 4.5 MW, seriam produzidos 2250 MWh. Para esse período o fator de capacidade foi baixo, apenas cerca de 0.1. É comum encontrar fatores entre 0.3 e 0.5 em parques operacionais no país. É interessante perceber que caso o proprietário do parque fechasse um acordo de produção de energia considerando um fator de capacidade relativamente pessimista de 0.3 (o limite inferior da média dos parques do país) ele perderia dinheiro pois durante o período o fator de capacidade ficou abaixo de 0.1.
 
 \chapter{Validação com outras séries}
 
@@ -1193,6 +1220,67 @@ O modelo que obteve o melhor poder preditivo foi o GARCH(1,1). No entanto, assim
 As regiões escolhidas variam entre florestadas, desérticas, no interior de continentes ou diretamente na costa ou ainda em golfos ou ilhas. O sucesso do modelo em regiões tão distintas leva a crer que ela seja aplicável a condições bem gerais.
 
 O modelo GARCH(1,1) foi aplicado em cada uma das séries cujas localidades correspondentes são exibidas no mapa acima e os resultados são exibidos abaixo:
+
+\begin{table}[h]
+\centering
+\begin{tabular}{ |c|c|c|c|c|c| } 
+\hline
+\textbf{Local}&\textbf{ME}&\textbf{RMSE}&\textbf{MAE}&\textbf{MPE}&\textbf{MAPE}\\
+\hline
+NE01a&0.0&0.02&0.01&-0.0&0.17\\
+\hline
+NE05&0.01&0.02&0.01&0.02&0.17\\
+\hline
+ChapadaAraripe&0.01&0.02&0.01&0.02&0.17\\
+\hline
+Embuaca&-0.01&0.02&0.02&-0.16&0.27\\
+\hline
+Santos&-0.01&0.02&0.02&-0.16&0.27\\
+\hline
+LaGuajira&0.03&0.04&0.04&0.25&0.27\\
+\hline
+AsaBranca&0.02&0.03&0.02&0.19&0.28\\
+\hline
+Omega&0.02&0.03&0.03&0.14&0.28\\
+\hline
+Icarai&-0.01&0.02&0.02&-0.19&0.29\\
+\hline
+EsquinaDoVento&0.03&0.04&0.03&0.25&0.4\\
+\hline
+\end{tabular}
+\caption{10 melhores localidades em relação a previsão com GARCH(1,1)}
+\end{table}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{ |c|c|c|c|c|c| } 
+\hline
+\textbf{Local}&\textbf{ME}&\textbf{RMSE}&\textbf{MAE}&\textbf{MPE}&\textbf{MAPE}\\
+\hline
+Omega\_RJ&0.1&0.13&0.11&1.48&2.02\\
+\hline
+Ibipeba&-0.04&0.07&0.05&-1.83&2.11\\
+\hline
+Tafila\_ERA5&0.05&0.11&0.08&-0.19&2.33\\
+\hline
+CapaoAlto&0.0&0.07&0.06&-1.63&2.41\\
+\hline
+Quadran&-0.05&0.07&0.05&-2.48&2.61\\
+\hline
+LaVigia&-0.01&0.06&0.05&-2.28&3.12\\
+\hline
+Ckani&0.05&0.13&0.09&-0.95&3.35\\
+\hline
+SanPedro&0.08&0.17&0.12&-0.1&3.94\\
+\hline
+Tucano&-0.05&0.15&0.13&-3.74&4.8\\
+\hline
+Llanos&0.22&0.33&0.24&3.47&12.58\\
+\hline
+\end{tabular}
+\caption{10 piores localidades em relação a previsão com GARCH(1,1)}
+\end{table}
+
 
 %\cleardoublepage
 %\part{Análise de dados de vento}
