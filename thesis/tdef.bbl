@@ -5,10 +5,26 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.6 }
 
+\bibitem[Abadi et al. 2015]{tensorflow}
+\abntrefinfo{Abadi et al.}{ABADI et al.}{2015}
+{ABADI, M. et al. \emph{{TensorFlow}: Large-Scale Machine Learning on
+  Heterogeneous Systems}. 2015.
+Software available from tensorflow.org.
+Dispon{\'\i}vel em: \url{http://tensorflow.org/}.}
+
 \bibitem[Ackermann 2012]{thomas}
 \abntrefinfo{Ackermann}{ACKERMANN}{2012}
 {ACKERMANN, T. \emph{Wind Power in Power Systems}. [S.l.]: John Wiley \& Sons,
   Ltd, 2012.}
+
+\bibitem[Akaike 2011]{eike}
+\abntrefinfo{Akaike}{AKAIKE}{2011}
+{AKAIKE, H. Akaike's information criterion.
+In:  \underline{\ \ \ \ \ \ \ \ }. \emph{International Encyclopedia of
+  Statistical Science}. Berlin, Heidelberg: Springer Berlin Heidelberg, 2011.
+  p. 25--25.
+ISBN 978-3-642-04898-2.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1007/978-3-642-04898-2\_110}.}
 
 \bibitem[AN. 2003]{art14}
 \abntrefinfo{AN.}{AN.}{2003}
@@ -16,11 +32,54 @@
   weibull-representative wind data.
 \emph{Journal of Wind Engeneering and Industrial Aerodynamics}, 2003.}
 
+\bibitem[Bailer 2001]{frey}
+\abntrefinfo{Bailer}{BAILER}{2001}
+{BAILER, A. J. Probabilistic techniques in exposure assessment. a handbook for
+  dealing with variability and uncertainty in models and inputs. a. c. cullen
+  and h. c. frey, plenum press, new york and london, 1999. no. of pages: ix +
+  335. price: \$99.50. isbn 0-306-45956-6.
+\emph{Statistics in Medicine}, v.~20, n.~14, p. 2211--2213, 2001.
+Dispon{\'\i}vel em:
+  \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.958}.}
+
+\bibitem[Basrak 2011]{Basrak2011}
+\abntrefinfo{Basrak}{BASRAK}{2011}
+{BASRAK, B. Fisher-tippett theorem.
+In:  \underline{\ \ \ \ \ \ \ \ }. \emph{International Encyclopedia of
+  Statistical Science}. Berlin, Heidelberg: Springer Berlin Heidelberg, 2011.
+  p. 525--526.
+ISBN 978-3-642-04898-2.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1007/978-3-642-04898-2\_254}.}
+
+\bibitem[Bollerslev 1986]{boller}
+\abntrefinfo{Bollerslev}{BOLLERSLEV}{1986}
+{BOLLERSLEV, T. Generalized autoregressive conditional heteroscedasticity. In:
+  . [S.l.: s.n.], 1986.}
+
+\bibitem[Box e Cox 1964]{boxcox}
+\abntrefinfo{Box e Cox}{BOX; COX}{1964}
+{BOX, G. E.~P.; COX, D.~R. An analysis of transformations.
+\emph{Journal of the Royal Statistical Society. Series B (Methodological)},
+  [Royal Statistical Society, Wiley], v.~26, n.~2, p. 211--252, 1964.
+ISSN 00359246.
+Dispon{\'\i}vel em: \url{http://www.jstor.org/stable/2984418}.}
+
+\bibitem[Box e Jenkins 1994]{boxjay}
+\abntrefinfo{Box e Jenkins}{BOX; JENKINS}{1994}
+{BOX, G. E.~P.; JENKINS, G.~M. \emph{Time Series Analysis: Forecasting and
+  Control}. 3rd. ed. Upper Saddle River, NJ, USA: Prentice Hall PTR, 1994.
+ISBN 0130607746.}
+
 \bibitem[Centro de Pesquisas de Energia Elétrica, CEPEL 2001]{atlas}
 \abntrefinfo{CEPEL}{CEPEL}{2001}
 {CENTRO DE PESQUISAS DE ENERGIA ELéTRICA, CEPEL. \emph{Atlas do Potencial
   Eólico Brasileiro}. Brasíli, 2001. Dispon{\'\i}vel em:
   \url{http://www.cresesb.cepel.br/publicacoes/download/atlas\_eolico/atlas\%20do\%20potencial\%20eolico\%20brasileiro.pdf}.}
+
+\bibitem[Chollet 2015]{keras}
+\abntrefinfo{Chollet}{CHOLLET}{2015}
+{CHOLLET, F. \emph{keras}. [S.l.]: GitHub, 2015.
+  \url{https://github.com/fchollet/keras}.}
 
 \bibitem[Drobinski e Coulais 2012]{dists}
 \abntrefinfo{Drobinski e Coulais}{DROBINSKI; COULAIS}{2012}
@@ -34,6 +93,68 @@
 Dispon{\'\i}vel em:
   \url{https://www.ecmwf.int/en/forecasts/datasets/archive-datasets/reanalysis-datasets/era5}.
   Acesso em: 03 nov 2018.}
+
+\bibitem[Engle 1982]{engle}
+\abntrefinfo{Engle}{ENGLE}{1982}
+{ENGLE, R.~F. Autoregressive conditional heteroscedasticity with estimates of
+  the variance of united kingdom inflation.
+\emph{Econometrica}, [Wiley, Econometric Society], v.~50, n.~4, p. 987--1007,
+  1982.
+ISSN 00129682, 14680262.
+Dispon{\'\i}vel em: \url{http://www.jstor.org/stable/1912773}.}
+
+\bibitem[Früh 2012]{pccurve}
+\abntrefinfo{Früh}{FRüH}{2012}
+{FRüH, W.-G. Evaluation of two simple wind power forecasting methods applied
+  to a long-term wind record from scotland.
+\emph{Renewable Energy and Power Quality Journal}, p. 1398--1403, 04 2012.}
+
+\bibitem[Ghalanos 2019]{Rugarch}
+\abntrefinfo{Ghalanos}{GHALANOS}{2019}
+{GHALANOS, A. \emph{rugarch: Univariate GARCH models.}
+[S.l.], 2019. R package version 1.4-1.}
+
+\bibitem[Hearst 1998]{ssvm}
+\abntrefinfo{Hearst}{HEARST}{1998}
+{HEARST, M.~A. Support vector machines.
+\emph{IEEE Intelligent Systems}, IEEE Educational Activities Department,
+  Piscataway, NJ, USA, v.~13, n.~4, p. 18--28, jul. 1998.
+ISSN 1541-1672.
+Dispon{\'\i}vel em: \url{http://dx.doi.org/10.1109/5254.708428}.}
+
+\bibitem[Hochreiter e Schmidhuber 1997]{llstm}
+\abntrefinfo{Hochreiter e Schmidhuber}{HOCHREITER; SCHMIDHUBER}{1997}
+{HOCHREITER, S.; SCHMIDHUBER, J. Long short-term memory.
+\emph{Neural Comput.}, MIT Press, Cambridge, MA, USA, v.~9, n.~8, p.
+  1735--1780, nov. 1997.
+ISSN 0899-7667.
+Dispon{\'\i}vel em: \url{http://dx.doi.org/10.1162/neco.1997.9.8.1735}.}
+
+\bibitem[Hyndman e Khandakar 2008]{khandakar}
+\abntrefinfo{Hyndman e Khandakar}{HYNDMAN; KHANDAKAR}{2008}
+{HYNDMAN, R.; KHANDAKAR, Y. Automatic time series forecasting: The forecast
+  package for r.
+\emph{Journal of Statistical Software, Articles}, v.~27, n.~3, p. 1--22, 2008.
+ISSN 1548-7660.
+Dispon{\'\i}vel em: \url{https://www.jstatsoft.org/v027/i03}.}
+
+\bibitem[Kwiatkowski et al. 1992]{kpss}
+\abntrefinfo{Kwiatkowski et al.}{KWIATKOWSKI et al.}{1992}
+{KWIATKOWSKI, D. et al. Testing the null hypothesis of stationarity against the
+  alternative of a unit root: How sure are we that economic time series have a
+  unit root?
+\emph{Journal of Econometrics}, v.~54, n.~1, p. 159 -- 178, 1992.
+ISSN 0304-4076.
+Dispon{\'\i}vel em:
+  \url{http://www.sciencedirect.com/science/article/pii/030440769290104Y}.}
+
+\bibitem[LJUNG e BOX 1978]{ljung}
+\abntrefinfo{LJUNG e BOX}{LJUNG; BOX}{1978}
+{LJUNG, G.~M.; BOX, G. E.~P. {On a measure of lack of fit in time series
+  models}.
+\emph{Biometrika}, v.~65, n.~2, p. 297--303, 08 1978.
+ISSN 0006-3444.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1093/biomet/65.2.297}.}
 
 \bibitem[M Hooshmand R-A e A-H 2015]{art15}
 \abntrefinfo{M Hooshmand R-A e A-H}{M HOOSHMAND R-A; A-H}{2015}
@@ -51,5 +172,17 @@ Dispon{\'\i}vel em:
 {P, V.~S. R. A review of wind speed probability distributions used in wind
   energy analysis: case studies in the canary islands.
 \emph{Renewable Sustainable Energy Review}, 2003.}
+
+\bibitem[Th 2004]{marq}
+\abntrefinfo{Th}{TH}{2004}
+{TH, A.~R. \emph{The Levenberg-Marquardt Algorithm}. 2004.}
+
+\bibitem[Zhang e Duhamel 1992]{yulewalker}
+\abntrefinfo{Zhang e Duhamel}{ZHANG; DUHAMEL}{1992}
+{ZHANG, H.-M.; DUHAMEL, P. On the methods for solving yule-walker equations.
+\emph{Trans. Sig. Proc.}, IEEE Press, Piscataway, NJ, USA, v.~40, n.~12, p.
+  2987--3000, dez. 1992.
+ISSN 1053-587X.
+Dispon{\'\i}vel em: \url{http://dx.doi.org/10.1109/78.175742}.}
 
 \end{thebibliography}
