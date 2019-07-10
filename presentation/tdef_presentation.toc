@@ -1,0 +1,12 @@
+\beamer@sectionintoc {1}{Introdu\IeC {\c c}\IeC {\~a}o}{3}{0}{1}
+\beamer@sectionintoc {2}{Estudo de Caso}{15}{0}{2}
+\beamer@subsectionintoc {2}{1}{Caracteriza\IeC {\c c}\IeC {\~a}o da regi\IeC {\~a}o}{15}{0}{2}
+\beamer@subsectionintoc {2}{2}{A s\IeC {\'e}rie temporal modelo}{18}{0}{2}
+\beamer@subsectionintoc {2}{3}{Caracteriza\IeC {\c c}\IeC {\~a}o dos dados}{27}{0}{2}
+\beamer@sectionintoc {3}{Implementa\IeC {\c c}\IeC {\~a}o}{33}{0}{3}
+\beamer@subsectionintoc {3}{1}{Box-Jenkins}{33}{0}{3}
+\beamer@subsectionintoc {3}{2}{Modelo Autorregressivo Vari\IeC {\'a}vel}{63}{0}{3}
+\beamer@subsectionintoc {3}{3}{GARCH}{68}{0}{3}
+\beamer@sectionintoc {4}{Conclus\IeC {\~a}o}{74}{0}{4}
+\beamer@subsectionintoc {4}{1}{Convers\IeC {\~a}o em energia}{74}{0}{4}
+\beamer@subsectionintoc {4}{2}{Valida\IeC {\c c}\IeC {\~a}o com outras s\IeC {\'e}ries}{79}{0}{4}
