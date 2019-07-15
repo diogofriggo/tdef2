@@ -32,16 +32,6 @@ Dispon{\'\i}vel em: \url{https://doi.org/10.1007/978-3-642-04898-2\_110}.}
   weibull-representative wind data.
 \emph{Journal of Wind Engeneering and Industrial Aerodynamics}, 2003.}
 
-\bibitem[Bailer 2001]{frey}
-\abntrefinfo{Bailer}{BAILER}{2001}
-{BAILER, A. J. Probabilistic techniques in exposure assessment. a handbook for
-  dealing with variability and uncertainty in models and inputs. a. c. cullen
-  and h. c. frey, plenum press, new york and london, 1999. no. of pages: ix +
-  335. price: \$99.50. isbn 0-306-45956-6.
-\emph{Statistics in Medicine}, v.~20, n.~14, p. 2211--2213, 2001.
-Dispon{\'\i}vel em:
-  \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.958}.}
-
 \bibitem[Basrak 2011]{Basrak2011}
 \abntrefinfo{Basrak}{BASRAK}{2011}
 {BASRAK, B. Fisher-tippett theorem.
@@ -69,6 +59,14 @@ Dispon{\'\i}vel em: \url{http://www.jstor.org/stable/2984418}.}
 {BOX, G. E.~P.; JENKINS, G.~M. \emph{Time Series Analysis: Forecasting and
   Control}. 3rd. ed. Upper Saddle River, NJ, USA: Prentice Hall PTR, 1994.
 ISBN 0130607746.}
+
+\bibitem[Brooks 1997]{garch_vars}
+\abntrefinfo{Brooks}{BROOKS}{1997}
+{BROOKS, C. Garch modelling in finance: A review of the software options.
+\emph{The Economic Journal}, [Royal Economic Society, Wiley], v.~107, n.~443,
+  p. 1271--1276, 1997.
+ISSN 00130133, 14680297.
+Dispon{\'\i}vel em: \url{http://www.jstor.org/stable/2957890}.}
 
 \bibitem[Centro de Pesquisas de Energia Elétrica, CEPEL 2001]{atlas}
 \abntrefinfo{CEPEL}{CEPEL}{2001}
@@ -102,12 +100,6 @@ Dispon{\'\i}vel em:
   1982.
 ISSN 00129682, 14680262.
 Dispon{\'\i}vel em: \url{http://www.jstor.org/stable/1912773}.}
-
-\bibitem[Früh 2012]{pccurve}
-\abntrefinfo{Früh}{FRüH}{2012}
-{FRüH, W.-G. Evaluation of two simple wind power forecasting methods applied
-  to a long-term wind record from scotland.
-\emph{Renewable Energy and Power Quality Journal}, p. 1398--1403, 04 2012.}
 
 \bibitem[Ghalanos 2019]{Rugarch}
 \abntrefinfo{Ghalanos}{GHALANOS}{2019}

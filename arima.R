@@ -5,7 +5,7 @@ library(urca)
 library(fpp)
 
 setwd('/home/diogo/Jupyter/tdef')
-path <- '/home/diogo/Jupyter/tdef/Res025_ERA5.txt'
+path <- '/home/diogo/Jupyter/tdef2/Res025_ERA5.txt'
 era5 <- read_table2(path, skip=9, comment="--")
 tail(era5,-3) %>% 
   mutate(stamp=with_tz(ymd_hms(paste(Date, `Time(UTC)`)), tzone='Brazil/East')) %>% 
@@ -376,3 +376,4 @@ fARIMA110 <- function(x, h){forecast(Arima(x, order=c(1,1,0)), h=h)}
 
 x %>% tsCV(fARIMA110, h=1) %>% mean(na.rm=T) %>% .^2 %>% sqrt()
 x %>% fARIMA110(h=1) %>% residuals() %>% mean(na.rm=T) %>% .^2 %>% sqrt()
+

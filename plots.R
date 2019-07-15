@@ -9,8 +9,8 @@ require(gridExtra)
 library(fitdistrplus)
 library(logspline)
 
-setwd('/home/diogo/Jupyter/tdef')
-path <- '/home/diogo/Jupyter/tdef/Res025_ERA5.txt'
+setwd('/home/diogo/Jupyter/tdef2')
+path <- '/home/diogo/Jupyter/tdef2/Res025_ERA5.txt'
 
 data <- read_table2(path, skip=9, comment="--") %>% 
   tail(-3) %>% 
